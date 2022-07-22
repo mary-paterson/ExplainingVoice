@@ -1,6 +1,6 @@
 # Explaining Voice
 
-This application was initially created for the University of Leeds Be Curious 2022 event. The application allows has five different tabs:
+This application was initially created for the University of Leeds Be Curious 2022 event. The application has five different tabs:
 
 1. Record Audio
 This tab allows for participants to record their voice, view the waveform and some features. By clicking the add button the recording is added to the database and the age of the participant is predicted using a decision tree. Every five participants a new model is trained.
